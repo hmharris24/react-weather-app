@@ -53,3 +53,7 @@
 .float-left {
   float: left;
 }
+
+.Weather a {
+  text-decoration: none;
+}
